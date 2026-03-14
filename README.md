@@ -34,7 +34,7 @@
 
 ## 🔗 الرابط
 
-🌐 `[https://www.facebook.com/AdVax]`
+🌐 `https://[username].github.io/cosmetics-lab`
 
 ---
 
